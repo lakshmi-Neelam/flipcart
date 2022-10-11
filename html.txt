@@ -1,0 +1,1 @@
+linx is an operationg system's kernel
